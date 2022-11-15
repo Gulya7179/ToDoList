@@ -1,0 +1,12 @@
+.root {
+    height: 80px;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 0.03em;
+    color: rgb(0, 136, 255);
+    background: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
